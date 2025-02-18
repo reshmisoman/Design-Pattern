@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DesignPattern\\SingletonPattern\\SingletonPattern\\SingletonPattern.csproj": {}
+    "C:\\DesignPattern\\DesignPattern\\SingletonPattern\\SingletonPattern.csproj": {}
   },
   "projects": {
-    "C:\\DesignPattern\\SingletonPattern\\SingletonPattern\\SingletonPattern.csproj": {
+    "C:\\DesignPattern\\DesignPattern\\SingletonPattern\\SingletonPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesignPattern\\SingletonPattern\\SingletonPattern\\SingletonPattern.csproj",
+        "projectUniqueName": "C:\\DesignPattern\\DesignPattern\\SingletonPattern\\SingletonPattern.csproj",
         "projectName": "SingletonPattern",
-        "projectPath": "C:\\DesignPattern\\SingletonPattern\\SingletonPattern\\SingletonPattern.csproj",
+        "projectPath": "C:\\DesignPattern\\DesignPattern\\SingletonPattern\\SingletonPattern.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\DesignPattern\\SingletonPattern\\SingletonPattern\\obj\\",
+        "outputPath": "C:\\DesignPattern\\DesignPattern\\SingletonPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

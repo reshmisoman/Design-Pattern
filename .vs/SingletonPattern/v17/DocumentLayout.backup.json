@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DesignPattern\\SingletonPattern\\",
+  "WorkspaceRootPath": "C:\\DesignPattern\\DesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91A69C0C-C52B-4DD1-9DFF-7BC1B109E727}|SingletonPattern\\SingletonPattern.csproj|c:\\designpattern\\singletonpattern\\singletonpattern\\testlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91A69C0C-C52B-4DD1-9DFF-7BC1B109E727}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\testlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91A69C0C-C52B-4DD1-9DFF-7BC1B109E727}|SingletonPattern\\SingletonPattern.csproj|c:\\designpattern\\designpattern\\singletonpattern\\com._factory\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A69C0C-C52B-4DD1-9DFF-7BC1B109E727}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\com._factory\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91A69C0C-C52B-4DD1-9DFF-7BC1B109E727}|SingletonPattern\\SingletonPattern.csproj|c:\\designpattern\\singletonpattern\\singletonpattern\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91A69C0C-C52B-4DD1-9DFF-7BC1B109E727}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91A69C0C-C52B-4DD1-9DFF-7BC1B109E727}|SingletonPattern\\SingletonPattern.csproj|c:\\designpattern\\designpattern\\singletonpattern\\com._factory\\calculatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A69C0C-C52B-4DD1-9DFF-7BC1B109E727}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\com._factory\\calculatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A69C0C-C52B-4DD1-9DFF-7BC1B109E727}|SingletonPattern\\SingletonPattern.csproj|c:\\designpattern\\designpattern\\singletonpattern\\com._factory\\divide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A69C0C-C52B-4DD1-9DFF-7BC1B109E727}|SingletonPattern\\SingletonPattern.csproj|solutionrelative:singletonpattern\\com._factory\\divide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestLogger.cs",
-              "DocumentMoniker": "C:\\DesignPattern\\SingletonPattern\\SingletonPattern\\TestLogger.cs",
-              "RelativeDocumentMoniker": "SingletonPattern\\TestLogger.cs",
-              "ToolTip": "C:\\DesignPattern\\SingletonPattern\\SingletonPattern\\TestLogger.cs",
-              "RelativeToolTip": "SingletonPattern\\TestLogger.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAwAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CalculateFactory.cs",
+              "DocumentMoniker": "C:\\DesignPattern\\DesignPattern\\SingletonPattern\\com._factory\\CalculateFactory.cs",
+              "RelativeDocumentMoniker": "SingletonPattern\\com._factory\\CalculateFactory.cs",
+              "ToolTip": "C:\\DesignPattern\\DesignPattern\\SingletonPattern\\com._factory\\CalculateFactory.cs",
+              "RelativeToolTip": "SingletonPattern\\com._factory\\CalculateFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T09:47:21.456Z",
+              "WhenOpened": "2025-02-18T17:11:10.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Logger.cs",
-              "DocumentMoniker": "C:\\DesignPattern\\SingletonPattern\\SingletonPattern\\Logger.cs",
-              "RelativeDocumentMoniker": "SingletonPattern\\Logger.cs",
-              "ToolTip": "C:\\DesignPattern\\SingletonPattern\\SingletonPattern\\Logger.cs",
-              "RelativeToolTip": "SingletonPattern\\Logger.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Divide.cs",
+              "DocumentMoniker": "C:\\DesignPattern\\DesignPattern\\SingletonPattern\\com._factory\\Divide.cs",
+              "RelativeDocumentMoniker": "SingletonPattern\\com._factory\\Divide.cs",
+              "ToolTip": "C:\\DesignPattern\\DesignPattern\\SingletonPattern\\com._factory\\Divide.cs",
+              "RelativeToolTip": "SingletonPattern\\com._factory\\Divide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T09:46:46.254Z",
+              "WhenOpened": "2025-02-18T17:10:58.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\DesignPattern\\DesignPattern\\SingletonPattern\\com._factory\\Test.cs",
+              "RelativeDocumentMoniker": "SingletonPattern\\com._factory\\Test.cs",
+              "ToolTip": "C:\\DesignPattern\\DesignPattern\\SingletonPattern\\com._factory\\Test.cs",
+              "RelativeToolTip": "SingletonPattern\\com._factory\\Test.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:55:52.756Z",
               "EditorCaption": ""
             }
           ]

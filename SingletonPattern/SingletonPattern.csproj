@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Logger.cs" />
+    <Compile Remove="TestLogger.cs" />
+  </ItemGroup>
+
 </Project>
